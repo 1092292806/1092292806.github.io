@@ -10,10 +10,9 @@ body{
     height: 1136px;
     margin: 0 auto;
     background-image: url('bg-img.jpeg');
-    background-repeat:no-repeat;
-    background-size:cover;
-    position:relative;
-    margin-top:400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 .img_1 {
     zoom: 0.25;
@@ -24,27 +23,28 @@ body{
 }
 .cx {
     position: absolute;
-    top: 2041px;
+    top: 2591px;
     right: 5px;
     zoom: 0.3;
     z-index: 998;
 }
 .cx_1 {
     position: absolute;
-    top: 1381px;
+    top: 1981px;
     right: 635px;
     zoom: 0.3;
     z-index: 997;
 }
-.font1{
-    font-family:YouYuan;
-    font-size:100px;
-    font-weight:900;
-    color:#deaf04;
-    border:2px solid double;
-    position:absolute;
-    top:300px;
-    left:150px;
+.font1 {
+    font-family: YouYuan;
+    font-size: 100px;
+    font-weight: 900;
+    color: #deaf04;
+    border: 2px solid double;
+    /*position:absolute;*/
+    top: 300px;
+    left: 150px;
+    margin-left: 150px;
 }
 .font2 {
     font-family: YouYuan;
@@ -52,7 +52,7 @@ body{
     font-weight: 900;
     color: #deaf04;
     border: 2px solid double;
-    position: absolute;
+   /* position: absolute;*/
     top: 200px;
     left: 60px;
 }
@@ -61,7 +61,13 @@ body{
     font-size: 30px;
     font-weight: 900;
     position: absolute;
-    bottom: 185px;
+    bottom: 195px;
     left: 59px;
     z-index: 1000;
+    
+}
+.font-box{
+    position:absolute;
+    top:280px;
+    left:20px;
 }
