@@ -8,7 +8,6 @@ body{
 #all {
     width: 640px;
     height: 1136px;
-    background-color: antiquewhite;
     margin: 0 auto;
     background-image: url('bg-img.jpeg');
     background-repeat:no-repeat;
