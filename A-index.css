@@ -2,6 +2,9 @@
     padding:0;
     margin:0
 }
+body{
+    zoom:0.9;
+}
 #all {
     width: 640px;
     height: 1136px;
