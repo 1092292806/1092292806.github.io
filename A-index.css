@@ -6,8 +6,8 @@ body{
     zoom:0.9;
 }
 #all {
-    width: 1080px;
-    height: 2400px;
+    width: 640px;
+    height: 1136px;
     margin: 0 auto;
     background-image: url('bg-img.jpeg');
     background-repeat:no-repeat;
